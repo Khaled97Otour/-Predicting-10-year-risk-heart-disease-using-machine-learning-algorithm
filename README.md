@@ -33,4 +33,4 @@ For classification first I will build a normail logictic model and study the res
 ![download (4)](https://user-images.githubusercontent.com/93203143/182428630-f6befaf6-c14e-467d-90a2-200c7af8033d.png)
 ![download (5)](https://user-images.githubusercontent.com/93203143/182428640-a3723d8d-6c99-430d-a315-39303cec2377.png)
 4. One of the down side is the unbalance of our dataset.
-5 .The large number of our features are one of the reason of overfitting (complexity).
+5. The large number of our features are one of the reason of overfitting (complexity).
