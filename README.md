@@ -27,6 +27,7 @@ For classification first I will build a normail logictic model and study the res
 
 . I used diffrent types of classification models (KNN, Decision Tree and random forest) and the results  were the following:
 1. by using a logictic classification I was able to have the best results.
+
 |  /            | lr            |l1             |l2             |
 | ------------- | ------------- | ------------- | ------------- |
 | precision     |0.821592       |0.823000       | 0.819658| 
